@@ -14,5 +14,6 @@
 
 <p align="center"><sub>
 Laura Nonato <br><i> Public Sector Data Analytics </i><br>
-<a href="https://www.linkedin.com/in/lauraanonato/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="mailto:lauraanonato@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/lauraanonato/"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat&logo=linkedin&logoColor=000000&labelColor=FFFFFF" alt="LinkedIn"></a>
+<a href="mailto:lauraanonato@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=flat&logo=gmail&logoColor=000000&labelColor=FFFFFF" alt="Gmail"></a>
+<a href="http://lattes.cnpq.br/7077547558866715"> <img src="https://img.shields.io/badge/Lattes-FFFFFF?style=flat&logoColor=000000&labelColor=FFFFFF" alt="Lattes"> </a> </p>
