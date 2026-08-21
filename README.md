@@ -3,11 +3,11 @@
 
 I'm Laura Nonato, a Public Management student, data analyst, and researcher.
 
-This portfolio contains analyses of the Brazilian public sector, focusing on public policy, public finance and budgeting, and local government.
+This portfolio contains data-driven analyses of the Brazilian public sector, with a focus on public policy, policy evaluation, public finance, labor market, and quantitative methods.
 
 All code is publicly available to ensure reproducibility.
 
-For suggestions, corrections, or other contributions, please open an Issue in the corresponding repository. 🤝
+For suggestions, corrections, or other contributions, please open an <b>Issue</b> in the corresponding repository. 🤝
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="25" height="25" alt="R" /> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25" alt="Python" />
