@@ -1,9 +1,14 @@
   
 ## 
 
-<p align="center"><sub><i></i>Este portfólio reúne projetos que investigam problemas públicos a partir da análise de dados e do uso de ferramentas tecnológicas como apoio para entender melhor fenômenos sociais e institucionais. Cada projeto tem seu próprio repositório, organizado de forma a documentar as fontes utilizadas, os procedimentos adotados e as etapas percorridas ao longo da análise. Esse cuidado reflete um compromisso com a clareza e com a possibilidade de que outras pessoas acompanhem, avaliem e, se quiserem, repliquem o caminho percorrido em cada análise. </sub>
+I'm Laura Nonato, a Public Management student, data analyst, and researcher.
 
-<p align="center">
+This portfolio contains analyses of the Brazilian public sector, focusing on public policy, public finance and budgeting, and local government.
+
+All code is publicly available to ensure reproducibility.
+
+For suggestions, corrections, or other contributions, please open an Issue in the corresponding repository. 🤝
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="25" height="25" alt="R" /> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25" alt="Python" />
   &nbsp;&nbsp;
